@@ -1,0 +1,29 @@
+#navLink{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: antiquewhite;
+    transition: all 0.5s ease-in-out;
+}
+
+#navLink:hover{
+    color: cornflowerblue;
+    transform: scale(1.1);
+}
+
+#navbar{
+    /* background-color: rgba(3,37,65); */
+    background: rgb(0,0,0);
+background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(101,0,251,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#navTitle{
+
+font-size: 50px;
+
+}
+#search{
+    width: auto;
+    height: 100px;
+}
